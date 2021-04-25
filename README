@@ -1,0 +1,13 @@
+edenhorka, zahala0017
+Eden Horka (313288698), Zahala Kamari (316150051)
+EX: 4
+FILES:
+VirtualMemory.cpp - code of VirtualMemory library
+
+
+REMARKS:
+-------
+
+In this excersie we implemented the read and write functions of the virtual memory library,
+which includes implementing the addresses translation, DFS algorithm and dealing with page fault.
+all of this done by reading from the physical memory and writing to the physical memory.
